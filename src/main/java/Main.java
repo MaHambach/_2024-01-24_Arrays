@@ -36,5 +36,7 @@ public class Main {
         }
         System.out.println("Sum of 1. Array: "+sum);
         System.out.println("Largest in 1. Array: "+largestNumber);
+
+
     }
 }
